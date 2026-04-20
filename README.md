@@ -14,3 +14,4 @@ An archive of 犬 記録 (inu_oa) Youtube
 - [Video 6](https://youtu.be/JP_PxoIm988?si=5RH5KbH0djX7SfoY)
 - [Video 7](https://youtu.be/YvOSiQ5-UAU?si=YQcK70WRrbj99uwH)
 
+![Dog in the Forest](Site_Media/Dog_Forest.png)
